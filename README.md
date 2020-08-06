@@ -1,6 +1,5 @@
 ### Hi there,I'm [Karan Singh Negi](https://github.com/negikaran7) 👋
 #### working on Data Science, Machine Learning and it's applications.
--
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=negikaran7">
