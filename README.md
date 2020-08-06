@@ -1,5 +1,5 @@
 ### Hi there,I'm [Karan Singh Negi](https://github.com/negikaran7) 👋
-#### am passionate about Data Science, Machine Learning and it's applications.
+#### working on Data Science, Machine Learning and it's applications.
 -
 
 
